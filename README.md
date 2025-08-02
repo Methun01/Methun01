@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/120591274?v=4" width="150" style="border-radius:50%;"/>
+  <img src="https://avatars.githubusercontent.com/u/120591274?v=4" width="150" height="150" style="border-radius: 50%; object-fit: cover;" />
 </div>
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00C4B4&center=true&vCenter=true&width=600&lines=Hello,+I'm+Methunarajan!;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </div>
