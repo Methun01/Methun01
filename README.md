@@ -1,4 +1,7 @@
 <div align="center">
+  <img src="https://avatars.githubusercontent.com/u/120591274?v=4" width="150" style="border-radius:50%"/>
+
+
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00C4B4&center=true&vCenter=true&width=600&lines=Hello,+I'm+Methunarajan!;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </div>
 
@@ -20,35 +23,6 @@
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" />
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat" />
   <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat" />
-</div>
-
----
-
-### 🌟 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack | Link |
-|---------|-------------|------------|------|
-| **[Project Name]** | A brief description of your project and its purpose. | [Tech used, e.g., React, Node.js] | [🔗 Live Demo](#) / [📂 Repo](#) |
-| **[Project Name]** | A brief description of your project and its purpose. | [Tech used, e.g., Python, Flask] | [🔗 Live Demo](#) / [📂 Repo](#) |
-| **[Project Name]** | A brief description of your project and its purpose. | [Tech used, e.g., Java, Spring] | [🔗 Live Demo](#) / [📂 Repo](#) |
-
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub Stats" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=transparent&hide_border=true" alt="GitHub Streak" width="400" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" width="400" />
 </div>
 
 ---
