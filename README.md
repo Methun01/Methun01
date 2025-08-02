@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/120591274?v=4" width="150" height="150" style="border-radius: 50%; object-fit: cover;" />
-</div>
+
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00C4B4&center=true&vCenter=true&width=600&lines=Hello,+I'm+Methunarajan!;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
@@ -11,7 +9,7 @@
 <div align="center">
   <h2>👨‍💻 About Me</h2>
   <p>
-    I'm a <strong>computer science student</strong> passionate about building innovative solutions and exploring cutting-edge technologies. I love creating projects that make a difference and collaborating with like-minded individuals. When I'm not coding, you can find me on gaming or a cinema teater.
+    I'm a <strong>computer science student</strong> passionate about building innovative solutions and exploring cutting-edge technologies. I love creating projects that make a difference and collaborating with like-minded individuals. When I'm not coding, you can find me on gaming or a cinema theater ;).
   </p>
 </div>
 
