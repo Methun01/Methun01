@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00C4B4&center=true&vCenter=true&width=600&lines=Hello,+I'm+YourName!;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00C4B4&center=true&vCenter=true&width=600&lines=Hello,+I'm+Methunarajan!;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </div>
 
 ---
@@ -7,7 +7,7 @@
 <div align="center">
   <h2>👨‍💻 About Me</h2>
   <p>
-    I'm a <strong>[Your Profession, e.g., Software Developer]</strong> passionate about building innovative solutions and exploring cutting-edge technologies. I love creating projects that make a difference and collaborating with like-minded individuals. When I'm not coding, you can find me [your hobbies, e.g., reading sci-fi, hiking, or gaming].
+    I'm a <strong>computer science student</strong> passionate about building innovative solutions and exploring cutting-edge technologies. I love creating projects that make a difference and collaborating with like-minded individuals. When I'm not coding, you can find me on gaming or a cinema teater.
   </p>
 </div>
 
@@ -56,16 +56,16 @@
 ### 📫 Connect with Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/YourLinkedIn" target="_blank">
+  <a href="https://linkedin.com/in/methunarajan" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat" />
   </a>
-  <a href="https://x.com/YourXHandle" target="_blank">
+  <a href="https://x.com/x_methun" target="_blank">
     <img src="https://img.shields.io/badge/-X-1DA1F2?logo=x&logoColor=white&style=flat" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:muralikamalesh18@gmail.com.com">
     <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat" />
   </a>
-  <a href="https://yourportfolio.com" target="_blank">
+  <a href="https://methunarajan.live" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-FF6F61?logo=web&logoColor=white&style=flat" />
   </a>
 </div>
@@ -79,6 +79,3 @@
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&color=00C4B4&style=flat" alt="Profile Views" />
-</div>
